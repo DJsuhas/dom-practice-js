@@ -80,7 +80,7 @@ After completing this practice, you will understand:
 - setAttribute()
 - querySelector()
 - innerText vs innerHTML
-- Styling elements using .style
+- Styling elements using style
 
 ---
 
